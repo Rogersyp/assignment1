@@ -9,3 +9,4 @@ I do not have any coding experience before I taking cs160. However, I did quite 
 #2nd commit in programming-bio
 My favorite programming language is C and C++, because they are widely used languages and most of my assignments are coding in those languages.
 
+#More info in master after merge.
